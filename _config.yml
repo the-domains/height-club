@@ -1,0 +1,28 @@
+name: Height Club
+favicon: null
+layout_spectrum: 0.9566999766975641
+typography_spectrum: 0.7371591539122164
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.24706010497175157
+  lightness: 0.642539328429848
+  saturation: 0.06249758414924145
+  rhythmicContrast: 0.9628316326998174
+purpose: []
